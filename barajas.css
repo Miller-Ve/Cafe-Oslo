@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.cartas_all {
+  display: flex;
+  padding: 10px 0px;
+}
+
+.one_carta {
+  font-size: 28px;
+  background-color: rgb(248, 248, 248);
+  box-shadow: 3px 0 5px rgb(36, 36, 36);
+  padding: 10px;
+  border-radius: 10px;
+}
